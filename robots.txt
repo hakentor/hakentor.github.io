@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://hakentor.github.io/sitemap
+Sitemap: https://hakentor.github.io/app/sitemap
+Sitemap: https://hakentor.github.io/assets/sitemap
+Sitemap: https://hakentor.github.io/css/sitemap
+Sitemap: https://hakentor.github.io/includes/sitemap
+Sitemap: https://hakentor.github.io/item/sitemap
+Sitemap: https://hakentor.github.io/src/sitemap
